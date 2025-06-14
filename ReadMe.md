@@ -1,10 +1,5 @@
 # 💫About Me :
-👋 Olá! Sou um desenvolvedor Fullstack
- com uma forte paixão por Python, automação
- e Segurança da Informação. 
-Minha jornada é impulsionada pela busca contínua de
- soluções inovadoras e seguras para problemas
- do mundo real.
+👋 "Especialista em Cibersegurança com foco em Pentest, Análise de Vulnerabilidades e Automação de Segurança. Minha missão é identificar, explorar e corrigir falhas que colocam sistemas em risco, sempre com foco em soluções práticas e eficazes. Apaixonado por segurança ofensiva, busco constantemente aprimorar técnicas, compartilhar conhecimento e aplicar práticas seguras no mundo real."
 
 
 Desenvolvedor fullstack
